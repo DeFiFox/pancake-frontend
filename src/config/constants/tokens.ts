@@ -1400,7 +1400,7 @@ const tokens = {
   },
   
   tkf: {
-    symbol: 'DERI',
+    symbol: 'TKF',
     address: {
       56: '0x07936636Bf725f3F524395C36aCf388d9eD4c745',
       97: '',
