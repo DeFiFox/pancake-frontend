@@ -24,6 +24,16 @@ const tokens = {
     projectLink: 'https://pancakeswap.finance/',
   },
   
+   busd: {
+    symbol: 'BUSD',
+    address: {
+      56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://www.paxos.com/busd/',
+  },
+  
 }
 
 export default tokens
