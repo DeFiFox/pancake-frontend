@@ -23,7 +23,7 @@ const pools: PoolConfig[] = [
     earningToken: tokens.tkf,
     contractAddress: {
       97: '',
-      56: '0x07936636bf725f3f524395c36acf388d9ed4c745',
+      56: '0x5db85cafD3AABA39F20e502d28b93be0bd2b14F0',
     },
     poolCategory: PoolCategory.CORE,
     harvest: true,
