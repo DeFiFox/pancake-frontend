@@ -6,8 +6,8 @@ const tokens = {
   cake: {
     symbol: 'CAKE',
     address: {
-      56: '0x7D4c6ea9204a610Ca3dC8EEa2Eb062A2F72dfB0A',
-      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+      56: '0x5aa36CaeA5d7ef9692AA4fDeB7dBdd1298C2f390',
+      97: '0x5aa36CaeA5d7ef9692AA4fDeB7dBdd1298C2f390',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
@@ -573,8 +573,8 @@ const tokens = {
   syrup: {
     symbol: 'SYRUP',
     address: {
-      56: '0x009cF7bC57584b7998236eff51b98A168DceA9B0',
-      97: '0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9',
+      56: '0x638d18824acf1F0536990143857f79C4cDFeBd75',
+      97: '0x638d18824acf1F0536990143857f79C4cDFeBd75',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
