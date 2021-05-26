@@ -1398,6 +1398,17 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://deri.finance/#/index',
   },
+  
+  tkf: {
+    symbol: 'DERI',
+    address: {
+      56: '0x07936636Bf725f3F524395C36aCf388d9eD4c745',
+      97: '',
+    },
+    decimals: 18,
+    projectLink: 'https://tika.finance/',
+  },
+  
 }
 
 export default tokens
