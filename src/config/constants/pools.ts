@@ -28,7 +28,7 @@ const pools: PoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     harvest: true,
     tokenPerBlock: '100',
-    sortOrder: 2,
+    sortOrder: 20,
   },
  
 ]
