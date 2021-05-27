@@ -10,8 +10,8 @@ const farms: FarmConfig[] = [
     pid: 251,
     lpSymbol: 'CAKE-BNB LP',
     lpAddresses: {
-      97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
-      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0',
+      97: '0x27a522c1762f166c3bb8898cb1f592552da71f18',
+      56: '0x27a522c1762f166c3bb8898cb1f592552da71f18',
     },
     token: tokens.cake,
     quoteToken: tokens.wbnb,
