@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
   
   {
     pid: 0,
-    lpSymbol: 'CAKE',
+    lpSymbol: 'TIKA',
     lpAddresses: {
       97: '0x9C21123D94b93361a29B2C2EFB3d5CD8B17e0A9e',
       56: '0xd8ee050845db3eb1695d748f807dfc93ea08ef1c',
