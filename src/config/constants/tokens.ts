@@ -571,10 +571,10 @@ const tokens = {
     projectLink: 'https://compound.finance/',
   },
   syrup: {
-    symbol: 'SYRUP',
+    symbol: 'TikaPool',
     address: {
       56: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
-      97: '0x07dAddC6bDE104a63742b4f385D811C3d69b10fc',
+      97: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
