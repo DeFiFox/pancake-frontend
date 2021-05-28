@@ -6,7 +6,7 @@ const tokens = {
   cake: {
     symbol: 'CAKE',
     address: {
-      56: '0x0b9d6f254f8ac6636320167eef9bcbd48124eb87',
+      56: '0xd8ee050845db3Eb1695D748f807Dfc93ea08eF1c',
       97: '0x0b9d6f254f8ac6636320167eef9bcbd48124eb87',
     },
     decimals: 18,
@@ -573,7 +573,7 @@ const tokens = {
   syrup: {
     symbol: 'SYRUP',
     address: {
-      56: '0x07dAddC6bDE104a63742b4f385D811C3d69b10fc',
+      56: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
       97: '0x07dAddC6bDE104a63742b4f385D811C3d69b10fc',
     },
     decimals: 18,
