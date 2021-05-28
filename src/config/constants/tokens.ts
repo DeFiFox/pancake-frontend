@@ -571,7 +571,7 @@ const tokens = {
     projectLink: 'https://compound.finance/',
   },
   syrup: {
-    symbol: 'TikaPool',
+    symbol: 'TKPool',
     address: {
       56: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
       97: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
