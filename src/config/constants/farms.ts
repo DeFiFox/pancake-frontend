@@ -7,7 +7,7 @@ const farms: FarmConfig[] = [
    */
   
   {
-    pid: 251,
+    pid: 0,
     lpSymbol: 'CAKE-BNB LP',
     lpAddresses: {
       97: '0x27a522c1762f166c3bb8898cb1f592552da71f18',
@@ -17,16 +17,7 @@ const farms: FarmConfig[] = [
     quoteToken: tokens.wbnb,
   },
   
-  {
-    pid: 252,
-    lpSymbol: 'BUSD-BNB LP',
-    lpAddresses: {
-      97: '',
-      56: '0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16',
-    },
-    token: tokens.busd,
-    quoteToken: tokens.wbnb,
-  },
+ 
   
 ]
 
