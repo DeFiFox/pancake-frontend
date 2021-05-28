@@ -4,7 +4,7 @@ const tokens = {
     projectLink: 'https://www.binance.com/',
   },
   cake: {
-    symbol: 'CAKE',
+    symbol: 'TIKA',
     address: {
       56: '0xd8ee050845db3Eb1695D748f807Dfc93ea08eF1c',
       97: '0x0b9d6f254f8ac6636320167eef9bcbd48124eb87',
