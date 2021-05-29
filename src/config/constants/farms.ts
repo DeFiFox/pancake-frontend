@@ -11,7 +11,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'TIKA',
     lpAddresses: {
       97: '0x9C21123D94b93361a29B2C2EFB3d5CD8B17e0A9e',
-      56: '0xd8ee050845db3eb1695d748f807dfc93ea08ef1c',
+      56: '0x97365156085d0cE3fC3FE2194a868bFF7e271b96',
     },
     token: tokens.syrup,
     quoteToken: tokens.wbnb,
