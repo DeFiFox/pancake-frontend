@@ -6,7 +6,7 @@ const tokens = {
   cake: {
     symbol: 'TIKA',
     address: {
-      56: '0xd8ee050845db3Eb1695D748f807Dfc93ea08eF1c',
+      56: '0x97365156085d0cE3fC3FE2194a868bFF7e271b96',
       97: '0x0b9d6f254f8ac6636320167eef9bcbd48124eb87',
     },
     decimals: 18,
@@ -571,9 +571,9 @@ const tokens = {
     projectLink: 'https://compound.finance/',
   },
   syrup: {
-    symbol: 'TKPool',
+    symbol: 'SYRUP',
     address: {
-      56: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
+      56: '0x2e3389c446e54e756c5db301f2eadeade2fddaf7',
       97: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
     },
     decimals: 18,
