@@ -19,7 +19,7 @@ export const BSC_BLOCK_TIME = 3
 export const CAKE_PER_BLOCK = new BigNumber(40)
 export const BLOCKS_PER_YEAR = new BigNumber((60 / BSC_BLOCK_TIME) * 60 * 24 * 365) // 10512000
 export const BASE_URL = 'https://defifox.netlify.app/'
-export const BASE_EXCHANGE_URL = 'https://exchange.pancakeswap.finance'
+export const BASE_EXCHANGE_URL = 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x97365156085d0cE3fC3FE2194a868bFF7e271b96'
 export const BASE_ADD_LIQUIDITY_URL = `${BASE_EXCHANGE_URL}/#/add`
 export const BASE_LIQUIDITY_POOL_URL = `${BASE_EXCHANGE_URL}/#/pool`
 export const BASE_BSC_SCAN_URL = 'https://bscscan.com'
