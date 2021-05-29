@@ -3,7 +3,7 @@ const tokens = {
     symbol: 'BNB',
     projectLink: 'https://www.binance.com/',
   },
-  cake: {
+  tika: {
     symbol: 'TIKA',
     address: {
       56: '0x97365156085d0cE3fC3FE2194a868bFF7e271b96',
