@@ -571,9 +571,9 @@ const tokens = {
     projectLink: 'https://compound.finance/',
   },
   syrup: {
-    symbol: 'SYRUP',
+    symbol: 'TikaSyrupBar',
     address: {
-      56: '0x2e3389c446e54e756c5db301f2eadeade2fddaf7',
+      56: '0x2e3389C446E54e756C5db301f2eadEAde2FDdAf7',
       97: '0x6404b0574cc579bf45323b233cb9d5ce7255bd99',
     },
     decimals: 18,
