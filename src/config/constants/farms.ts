@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
   
   
  {
-    pid: 1,
+    pid: 251,
     lpSymbol: 'TIKA-BNB LP',
     lpAddresses: {
       97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
@@ -18,7 +18,7 @@ const farms: FarmConfig[] = [
     quoteToken: tokens.wbnb,
   },
   {
-    pid: 2,
+    pid: 252,
     lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
       97: '',
